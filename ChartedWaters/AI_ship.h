@@ -1,7 +1,7 @@
 #include "Ship.h"
 #include <map>
 #include "town.h"
-#include <boost/random/mersenne_twister.hpp>
+#include "boost/random/mersenne_twister.hpp"
 #include "A_star.h"
 
 typedef std::pair<int, int> coord;

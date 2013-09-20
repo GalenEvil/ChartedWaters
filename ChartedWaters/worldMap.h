@@ -1,6 +1,6 @@
 #pragma once
 #include <vector>
-#include "include/noise.h"
+#include "noise/noise.h"
 #include <random>
 
 typedef std::pair<int, int> coord;

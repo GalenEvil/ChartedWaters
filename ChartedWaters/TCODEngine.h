@@ -1,11 +1,11 @@
 #pragma once
 
 #include "GameState.h"
-#include <SDL.h>
-#include <SDL_rwops.h>
+#include <SDL/SDL.h>
+#include <SDL/SDL_rwops.h>
 #include <stdio.h>
 #include <vector>
-#include <dirent.h>
+#include <direct.h>
 #include <libtcod.hpp>
 #include <fstream>
 

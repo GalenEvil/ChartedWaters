@@ -1,6 +1,6 @@
 #include "State_townmenu.h"
 #include "State_shop.h"
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include <string>
 #include "State_prompt.h"
 #include "State_drydock.h"

@@ -1,7 +1,7 @@
 #include "State_shop.h"
 #include "State_stringIn.h"
 #include <string>
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include "State_prompt.h"
 #include "utility.h"
 #include <iostream>

@@ -1,6 +1,6 @@
 #include "State_ShipStatus.h"
 #include "State_stringIn.h"
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include <string>
 #include "utility.h"
 

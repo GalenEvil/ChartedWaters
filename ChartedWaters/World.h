@@ -6,7 +6,7 @@
 #include <libtcod.hpp>
 #include "nameFactory.h"
 #include "A_star.h"
-#include "include/noise.h"
+#include "noise/noise.h"
 #include <random>
 #include "AI_ship.h"
 #include "entitymap.h"

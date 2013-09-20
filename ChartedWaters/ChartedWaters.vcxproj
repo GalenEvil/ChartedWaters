@@ -50,13 +50,13 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\libtcod-1.5.1\include;C:\libnoise;</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Galen\Documents\Libraries\SDL1.2.15\SDL-1.2.15\include;C:\Users\Galen\Documents\Libraries\boost_1_54_0\;C:\Users\Galen\Documents\Libraries\libtcod-1.5.1\libtcod-1.5.1\include;C:\Users\Galen\Documents\Libraries\libnoise\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>libnoise.lib;SDL.lib;SDLmain.lib;libtcod-VS.lib;libtcod-gui-VS.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>C:\libtcod-1.5.1\lib;C:\libnoise\bin;</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Galen\Documents\Libraries\SDL1.2.15\SDL-1.2.15\lib;C:\Users\Galen\Documents\Libraries\boost_1_54_0\libs;C:\Users\Galen\Documents\Libraries\libtcod-1.5.1\libtcod-1.5.1\lib;C:\Users\Galen\Documents\Libraries\libnoise\bin</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">

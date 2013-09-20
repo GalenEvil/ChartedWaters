@@ -1,5 +1,5 @@
 #include "State_tavern.h"
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include <string>
 #include "State_stringIn.h"
 #include "utility.h"
